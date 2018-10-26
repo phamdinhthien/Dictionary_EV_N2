@@ -1,0 +1,4 @@
+ant      kien
+as      casc
+dog      cho
+dogd      cho hashdasdsa
